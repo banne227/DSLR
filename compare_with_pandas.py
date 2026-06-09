@@ -15,7 +15,7 @@ if __name__ == "__main__":
 	# Afficher describe() - cela montre Count, Mean, Std, Min, 25%, 50%, 75%, Max
 	print("=== Pandas describe() ===")
 	print(df.describe())
-	print("\n")
+	print("\n") 
 	
 	## Optionnel : afficher aussi le type de chaque colonne
 	#print("=== Types de données ===")
